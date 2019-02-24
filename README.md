@@ -1,4 +1,4 @@
-﻿# Morse Reflected Sound Translator
+﻿# Reflected Morse Sound Translator
 This code can extract a reflected morse sound from a file and translate to text
 
 Usage:
